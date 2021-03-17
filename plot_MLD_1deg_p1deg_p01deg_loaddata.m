@@ -1,3 +1,7 @@
+%This makes the first figure for the initially-submitted mansuscript. The updated paper uses as its first figure one made with plot_mld03.m
+%OUT OF DATE NOT RECOMMENDED
+
+
 % run this with 028 and _2100 vs 027 and ROMS yr 2000 conditions
 restoredefaultpath;
 clear all
